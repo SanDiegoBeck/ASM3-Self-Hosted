@@ -1,0 +1,456 @@
+.asm-icon {
+	background-image: url('static/images/icons/asm-icon.png?gen=20131115104225'); display: inline-block; vertical-align: middle; 
+}
+.asm-icon-bg {
+	background-image: url('static/images/icons/asm-icon.png?gen=20131115104225'); 
+}
+.asm-icon-accounts {
+	background-position:0 -0px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-additional-field {
+	background-position:0 -16px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-android {
+	background-position:0 -32px;
+	width: 19px;
+	height: 21px;
+}
+.asm-icon-animal-add {
+	background-position:0 -53px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-delete {
+	background-position:0 -69px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-find {
+	background-position:0 -85px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-found-add {
+	background-position:0 -101px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-found-find {
+	background-position:0 -117px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-found {
+	background-position:0 -133px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-lost-add {
+	background-position:0 -149px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-lost-find {
+	background-position:0 -165px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal-lost {
+	background-position:0 -181px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-animal {
+	background-position:0 -197px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-asm-icon {
+	background-position:0 -213px;
+	width: 19px;
+	height: 1420px;
+}
+.asm-icon-auth {
+	background-position:0 -1633px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-back {
+	background-position:0 -1649px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-blank {
+	background-position:0 -1665px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-book {
+	background-position:0 -1681px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-calendar {
+	background-position:0 -1697px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-case {
+	background-position:0 -1713px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-complete {
+	background-position:0 -1729px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-copy {
+	background-position:0 -1745px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-cost {
+	background-position:0 -1761px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-database {
+	background-position:0 -1777px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-death {
+	background-position:0 -1793px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-delete {
+	background-position:0 -1809px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-diary {
+	background-position:0 -1825px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-diary-task {
+	background-position:0 -1841px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-diet {
+	background-position:0 -1857px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-document {
+	background-position:0 -1873px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-donation {
+	background-position:0 -1889px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-edit {
+	background-position:0 -1905px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-email {
+	background-position:0 -1921px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-facebook {
+	background-position:0 -1937px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-find {
+	background-position:0 -1953px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-forms {
+	background-position:0 -1969px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-health {
+	background-position:0 -1985px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-help {
+	background-position:0 -2001px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-highlight1 {
+	background-position:0 -2017px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-highlight2 {
+	background-position:0 -2033px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-highlight3 {
+	background-position:0 -2049px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-highlight4 {
+	background-position:0 -2065px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-highlight5 {
+	background-position:0 -2081px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-highlight {
+	background-position:0 -2097px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-hold {
+	background-position:0 -2113px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-image {
+	background-position:0 -2129px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-investigation {
+	background-position:0 -2145px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-link {
+	background-position:0 -2161px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-litter-new {
+	background-position:0 -2177px;
+	width: 16px;
+	height: 15px;
+}
+.asm-icon-litter {
+	background-position:0 -2192px;
+	width: 16px;
+	height: 15px;
+}
+.asm-icon-location {
+	background-position:0 -2207px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-logo {
+	background-position:0 -2223px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-logout {
+	background-position:0 -2239px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-log {
+	background-position:0 -2255px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-lookups {
+	background-position:0 -2271px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-map {
+	background-position:0 -2287px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-match {
+	background-position:0 -2303px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-media-add {
+	background-position:0 -2319px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-media-delete {
+	background-position:0 -2335px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-media {
+	background-position:0 -2351px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-medical {
+	background-position:0 -2367px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-message_new {
+	background-position:0 -2383px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-message {
+	background-position:0 -2399px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-movement {
+	background-position:0 -2415px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-new {
+	background-position:0 -2431px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-nonshelter {
+	background-position:0 -2447px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-notforadoption {
+	background-position:0 -2463px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-person-add {
+	background-position:0 -2479px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-person-find {
+	background-position:0 -2495px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-person {
+	background-position:0 -2511px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-print {
+	background-position:0 -2527px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-quarantine {
+	background-position:0 -2543px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-refresh {
+	background-position:0 -2559px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-report {
+	background-position:0 -2575px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-reservation {
+	background-position:0 -2591px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-right {
+	background-position:0 -2607px;
+	width: 9px;
+	height: 9px;
+}
+.asm-icon-rotate-anti {
+	background-position:0 -2616px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-rotate-clock {
+	background-position:0 -2632px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-save {
+	background-position:0 -2648px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-search {
+	background-position:0 -2664px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-settings {
+	background-position:0 -2680px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-sql {
+	background-position:0 -2696px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-test {
+	background-position:0 -2712px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-transactions {
+	background-position:0 -2728px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-trial {
+	background-position:0 -2744px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-users {
+	background-position:0 -2760px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-vaccination {
+	background-position:0 -2776px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-video {
+	background-position:0 -2792px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-waitinglist {
+	background-position:0 -2808px;
+	width: 16px;
+	height: 16px;
+}
+.asm-icon-web {
+	background-position:0 -2824px;
+	width: 16px;
+	height: 16px;
+}
